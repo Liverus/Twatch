@@ -127,3 +127,9 @@ dist
 .pnp.*
 
 more_frogé/*
+valid_proxies.txt
+script_backup.js
+request.js
+proxies.txt
+funcaptcha_script.js
+accounts.json
