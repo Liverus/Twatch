@@ -1,5 +1,5 @@
 # Twatch
- An old FunCaptcha bypass for twitch with automated account creation and follow.
+ An old FunCaptcha solver for twitch with automated account creation and follow.
  It won't work as-it-is, they added more requests so you'll have to fix it. 
  Anyone with the knowledge to fix it could anyway have made everything in this repo, so wether I released it or not shouldn't have changed anything.
  
